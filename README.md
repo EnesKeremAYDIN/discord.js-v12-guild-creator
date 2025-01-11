@@ -6,7 +6,7 @@ A Node.js bot using Discord.js v12 to create Discord servers automatically. This
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/discord.js-v12-guild-creator.git
+   git clone https://github.com/EnesKeremAYDIN/discord.js-v12-guild-creator.git
    cd discord.js-v12-guild-creator
    ```
 
